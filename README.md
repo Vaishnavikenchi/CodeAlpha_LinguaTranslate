@@ -100,7 +100,7 @@ http://127.0.0.1:5000
 ![Translation Example](Screenshots/A2.png)
 
 ### Listen Feature
-![Listen Feature](Screenshots/A3.png)
+![Translation History](Screenshots/A3.png)
 
 ---
 
