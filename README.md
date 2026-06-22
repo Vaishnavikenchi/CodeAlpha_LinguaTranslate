@@ -61,8 +61,7 @@ AI-Language-Translator/
 
 ### 1. Clone Repository
 
-git clone [https://github.com/YourUsername/AI-Language-Translator.git
-](https://github.com/Vaishnavikenchi/CodeAlpha_LinguaTranslate.git)
+git clone https://github.com/Vaishnavikenchi/CodeAlpha_LinguaTranslate.git
 ### 2. Navigate to Project Folder
 
 cd AI-Language-Translator
