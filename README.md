@@ -93,9 +93,21 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+### Home Page
+![Home Page](Screenshots/A1.png)
+
+### Translation Example
+![Translation Example](Screenshots/A2.png)
+
+### Listen Feature
+![Listen Feature](Screenshots/A3.png)
 
 ---
+
+## 🎥 Project Demo Video
+
+The project demo video is available in the repository:
+ Screenshots/Video Project.mp4
 
 ## 🎓 Internship Information
 
